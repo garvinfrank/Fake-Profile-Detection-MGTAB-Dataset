@@ -1,0 +1,5 @@
+Model,Epochs,Final Loss,Final Test Accuracy
+gcn,200,0.4303,0.7892
+gat,200,0.4496,0.7922
+sage,200,0.2499,0.8766
+gin,200,0.9616,0.6219

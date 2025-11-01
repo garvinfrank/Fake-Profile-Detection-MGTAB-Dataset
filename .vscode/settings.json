@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": ".venv\\Scripts\\python.exe",
+  "code-runner.executorMap": {
+    "python": "& \"C:\\Users\\ACER\\Downloads\\MGTAB (1)\\MGTAB\\.venv\\Scripts\\python.exe\""
+  },
+  "code-runner.runInTerminal": true
+}
